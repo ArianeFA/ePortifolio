@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Computer Science ePortifolio 
 
-You can use the [editor on GitHub](https://github.com/ArianeFA/ePortifolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Profressional Self Assessment
+TO DO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Code Review
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Jh3dXOVigvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
+## Enhancement One: Software Design and Engineering
+#### Artifact One Narrative
+The artifact is the first part of a three-part project. The main project is a hotel booking application that was first developed in the Software Development Lifecycle course. Through the application, the user can pick a hotel and book a room. This artifact will focus on the UI elements of the project. I selected this artifact since it will showcase my skills in creating an application that can be user-friendly and accessible. If an application is not accessible to everyone, from the tech-savvies to the social media only user, then it’s not well thought out. The first idea for this artifact was to list all the hotels on the same page. However, this would clog the main page since each hotel will display a list of the rooms and a short description. To improve, panels were developed and assigned to each hotel that the user can see by going back or forward through them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Enhancement Two: Algorithms and Data Structures
+#### Artifact Two Narrative
+The artifact is the second part of a three-part project. It will focus on the connection between the application and the SQL Server Database. I selected this artifact since it will showcase my skills in working within different programming environments. The hotel’s information could’ve been stored in the main code. However, this would mean that this could is locked to this dataset. By creating a connection between the code and an exterior database, the code can be reused in other situations. Additionally, the code and the dataset can be maintained separately, meaning that separate teams can work on it simultaneously. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArianeFA/ePortifolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Enhancement Three: Databases
+#### Artifact Three Narrative
+TO DO
