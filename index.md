@@ -3,9 +3,12 @@
 ## Profressional Self Assessment
 Completing my coursework throughout the program has taught me skills that will help me in any path I chose to follow in the computer science field. While completing this course I learned multiple programming languages, which include Python, Java, and C#. I also learned about SQL and NoSQL databases, and how to maintain them. Additionally, I learned about the different characteristics of the development lifecycle, as well as the distinct aspects of computer software and hardware.
 
+
 Throughout the coursework, courses like Software Test, Automation& QA, and Collaboration and Team Project taught me skills like how better communicate with the team and organize your work. These skills and many others learned will help me work in collaboration in a team environment. While going through the Software Development Lifecycle course, I learned about the different stages of development including how to communicate with stakeholders. This course has prepared me to become more employable since it expanded my understanding of how modern software is developed.
 
+
 Courses like Machine Learning and Software Develop with C#.NET taught me how to create and maintain code that will be used and improved by others. Even though in most classes our projects were only worked on by one person, these courses improved my understanding of creating professional-level algorithms. Furthermore, a course like Introduction to SQL taught me the importance of computer decentralization, not only for resource allocation but for security reasons as well. Even though no course was exclusively focused only on security, all courses provided me with knowledge on how security is approached in the different fields of computer science. 
+
 
 The objective of the project is to use three projects developed in previous terms to create one. The outcome will be one artifact with features from the other three. This project will allow me to show my skills in working with different programming languages and environments. Furthermore, this artifact will illustrate my abilities in using lessons learned in other projects while developing a new one. Finally, this project will illustrate my capacity of adapting to new challenges.
 
