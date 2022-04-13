@@ -13,7 +13,7 @@ namespace HotelsUI
     {
         public static SqlConnection GetConnection()
         {
-            string sql = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Victor\\Documents\\DatabaseHotel\\New Database.mdf;Integrated Security=True;Connect Timeout=30";
+            string sql = "ADD HERE YOUR DATA PATH";
             SqlConnection con = new SqlConnection(sql);
             try
             {
